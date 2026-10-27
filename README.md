@@ -8,8 +8,8 @@
 
 1. Clona el repositorio y entra a la carpeta:
    ```bash
-   git clone <URL_DEL_REPOSITORIO>
-   cd <NOMBRE_DEL_REPOSITORIO>
+   git clone <https://github.com/denisseandrs/simpson-trapecio-java>
+   cd <simpson-trapecio-java>
    ```
 2. Compila (los .class se generan en la carpeta out):
    ```bash
